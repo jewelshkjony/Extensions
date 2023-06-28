@@ -70,3 +70,21 @@ Visit this repository to see my all available extensions.
 <li> <a href="https://github.com/jewelshkjony/AppnextAds">AppnextAds</a> - An extension to monetize your application with Appnext Ads.
 
 <li> <a href="https://github.com/jewelshkjony/MaioAds">MaioAds</a> - An extension to monetize your application with Maio Ads.
+
+## Others
+
+<li> <a href="https://github.com/jewelshkjony/LabelView">LabelView</a> - An extension to make label view in your view component.
+
+<li> <a href="https://github.com/jewelshkjony/ImgToAscii">ImgToAscii</a> - An extension to convert image to ascii.
+
+<li> <a href="https://github.com/jewelshkjony/WordToSpan">WordToSpan</a> - An extension to create a link url, mail, mention, tag and text highlighter in textview.
+
+<li> <a href="https://github.com/jewelshkjony/UrlEmbedder">UrlEmbedder</a> - An extension to embed URL into any view or recycler view.
+
+<li> <a href="https://github.com/jewelshkjony/InstallReferrer">InstallReferrer</a> - Play Install Referrer Library (2.2)
+
+<li> <a href="https://github.com/jewelshkjony/Lottie">Lottie</a> - An extension to show Lottie animation into your application.
+
+<li> <a href="https://github.com/jewelshkjony/ShakeDetector">ShakeDetector</a> - An extension to detect device shake for Kodular, Niotron, App Inventor and it's other distributions.
+
+<li> <a href="https://github.com/jewelshkjony/ScreenshotTaker">ScreenshotTaker</a> - An extension to take screenshot from device screen.
