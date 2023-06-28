@@ -73,6 +73,12 @@ Visit this repository to see my all available extensions.
 
 ## Others
 
+<li> <a href="https://community.appinventor.mit.edu/t/free-inappreview-extension-core-library-1-10-2/44907">InAppReview</a> - An extension to implement google's in-app review library.
+
+<li> <a href="https://community.appinventor.mit.edu/t/paid-inappupdate-extension-download-the-update-from-inside-your-app/45015">InAppUpdate</a> - An extension to implement google's in-app update library.
+
+<li> <a href="https://community.appinventor.mit.edu/t/free-file-picker-extension-pick-file-from-storage-2-1-6/36701">FilePicker</a> - An extension to pick any type of file from device storage.
+
 <li> <a href="https://community.kodular.io/t/free-readmoretextview-extension/223449">ReadMoreTextView</a> - It’s just functionality added to it for showing read more and read less.
 
 <li> <a href="https://github.com/jewelshkjony/LabelView">LabelView</a> - An extension to make label view in your view component.
@@ -90,3 +96,5 @@ Visit this repository to see my all available extensions.
 <li> <a href="https://github.com/jewelshkjony/ShakeDetector">ShakeDetector</a> - An extension to detect device shake for Kodular, Niotron, App Inventor and it's other distributions.
 
 <li> <a href="https://github.com/jewelshkjony/ScreenshotTaker">ScreenshotTaker</a> - An extension to take screenshot from device screen.
+
+<li> <a href="https://community.appinventor.mit.edu/t/play-store-downloader-download-apk-from-play-store-extension-paid/29052">PlayStoreDownloader</a> - An extension to download apk from play store using application package name.
