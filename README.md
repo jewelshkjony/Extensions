@@ -3,15 +3,15 @@ Visit this repository to see my all available extensions.
 * **
 
 ## Recycler View
-<li> <a href="https://github.com/jewelshkjony/RecyclerNativeAdView">RecyclerNativeAdView</a> - An extension for MIT App Inventor 2 is a powerful tool that enhances the app-building experience by seamlessly integrating native ads into your application. <sub>(New)</sub>
+<li> <img src="https://github.com/jewelshkjony/Extensions/blob/main/files/new.png"/> <img src="https://github.com/jewelshkjony/Extensions/blob/main/files/offer.png"/> <a href="https://github.com/jewelshkjony/RecyclerNativeAdView">RecyclerNativeAdView</a> - An extension for MIT App Inventor 2 is a powerful tool that enhances the app-building experience by seamlessly integrating native ads into your application. 
 
-<li> <a href="https://community.kodular.io/t/paid-recycler-banner-ad-view-extension/228580">RecyclerBannerAdView</a> - An advanced extension designed specifically for MIT App Inventor 2, enabling you to effortlessly integrate banner ads into your mobile applications. <sub>(New)</sub>
+<li> <img src="https://github.com/jewelshkjony/Extensions/blob/main/files/new.png"/> <img src="https://github.com/jewelshkjony/Extensions/blob/main/files/offer.png"/> <a href="https://community.kodular.io/t/paid-recycler-banner-ad-view-extension/228580">RecyclerBannerAdView</a> - An advanced extension designed specifically for MIT App Inventor 2, enabling you to effortlessly integrate banner ads into your mobile applications. <sub>(New)</sub>
 
-<li> <a href="https://community.kodular.io/t/paid-advance-recycler-view-extension/227840">AdvanceRecyclerView</a> - An extension for MIT App Inventor 2 is a powerful tool that enhances the functionality of the RecyclerView. <sub>(New)</sub>
+<li> <img src="https://github.com/jewelshkjony/Extensions/blob/main/files/new.png"/> <img src="https://github.com/jewelshkjony/Extensions/blob/main/files/offer.png"/> <a href="https://community.kodular.io/t/paid-advance-recycler-view-extension/227840">AdvanceRecyclerView</a> - An extension for MIT App Inventor 2 is a powerful tool that enhances the functionality of the RecyclerView. <sub>(New)</sub>
 
 ## In-App Billing
 
-<li> <a href="https://github.com/jewelshkjony/GooglePlayBilling">GooglePlayBilling</a> - Monetize your app products using google in-app billing library.
+<li> <img src="https://github.com/jewelshkjony/Extensions/blob/main/files/big-sale.png"/> <a href="https://github.com/jewelshkjony/GooglePlayBilling">GooglePlayBilling</a> - Monetize your app products using google in-app billing library.
 
 <li> <a href="https://github.com/jewelshkjony/AmazonInAppBilling">AmazonInAppBilling</a> - Monetize your app products using amazon in-app billing library.
 
@@ -23,23 +23,23 @@ Visit this repository to see my all available extensions.
 
 ## Database
 
-<li> <a href="https://github.com/jewelshkjony/GoogleDrive">GoogleDrive</a> - An extension to download, upload, edit, modify and delete files from your google drive.
+<li> <img src="https://github.com/jewelshkjony/Extensions/blob/main/files/big-sale.png"/> <a href="https://github.com/jewelshkjony/GoogleDrive">GoogleDrive</a> - An extension to download, upload, edit, modify and delete files from your google drive.
 
-<li> <a href="https://github.com/jewelshkjony/SpreadSheets">SpreadSheets</a> - An awesome extension to work with google spreadsheet. You can read, write and modify data from your sheets.
+<li> <img src="https://github.com/jewelshkjony/Extensions/blob/main/files/big-sale.png"/> <a href="https://github.com/jewelshkjony/SpreadSheets">SpreadSheets</a> - An awesome extension to work with google spreadsheet. You can read, write and modify data from your sheets.
 
 <li> <a href="https://github.com/jewelshkjony/SpreadsheetPlus">SpreadsheetPlus</a> - An awesome extension to read data from Spreadsheet by lightning speed ⚡
 
 ## Monetization
 
-<li> <a href="https://github.com/jewelshkjony/AdmobAds">AdmobAds</a> - A lightweight ads extension for you to monetize your apps with many types of ads.
+<li> <img src="https://github.com/jewelshkjony/Extensions/blob/main/files/big-sale.png"/> <a href="https://github.com/jewelshkjony/AdmobAds">AdmobAds</a> - A lightweight ads extension for you to monetize your apps with many types of ads.
 
 <li> <a href="https://github.com/jewelshkjony/FacebookAds">FacebookAds</a> - An extension to monetize your application with Facebook audience network ads.
 
-<li> <a href="https://github.com/jewelshkjony/StartappAds">StartappAds</a> - An extension to monetize your application with Startapp (Start.io) ads.
+<li> <img src="https://github.com/jewelshkjony/Extensions/blob/main/files/big-sale.png"/> <a href="https://github.com/jewelshkjony/StartappAds">StartappAds</a> - An extension to monetize your application with Startapp (Start.io) ads.
 
-<li> <a href="https://github.com/jewelshkjony/AppLovinMax">AppLovinMax</a> - An extension to show AppLovinMax ads from your application.
+<li> <img src="https://github.com/jewelshkjony/Extensions/blob/main/files/big-sale.png"/> <a href="https://github.com/jewelshkjony/AppLovinMax">AppLovinMax</a> - An extension to show AppLovinMax ads from your application.
 
-<li> <a href="https://github.com/jewelshkjony/UnityAds">UnityAds</a> - An extension to monetize your application with Unity Ads.
+<li> <img src="https://github.com/jewelshkjony/Extensions/blob/main/files/big-sale.png"/> <a href="https://github.com/jewelshkjony/UnityAds">UnityAds</a> - An extension to monetize your application with Unity Ads.
 
 <li> <a href="https://github.com/jewelshkjony/AppLovinAds">AppLovinAds</a> - An extension to monetize your application with Applovin Ads.
 
