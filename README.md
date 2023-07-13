@@ -31,6 +31,8 @@ Visit this repository to see my all available extensions.
 
 ## 💵 Monetization
 
+<li> <img src="https://github.com/jewelshkjony/Extensions/blob/main/files/new.png"/> <a href="https://github.com/jewelshkjony/AdManagerAds">[PAID] AdManagerAds</a> - Lightweight admanager ads extension for you to monetize your apps with many types of ads.
+
 <li> <img src="https://github.com/jewelshkjony/Extensions/blob/main/files/big-sale.png"/> <a href="https://github.com/jewelshkjony/AdmobAds">[PAID] AdmobAds</a> - A lightweight ads extension for you to monetize your apps with many types of ads.
 
 <li> <a href="https://github.com/jewelshkjony/FacebookAds">[PAID] FacebookAds</a> - An extension to monetize your application with Facebook audience network ads.
